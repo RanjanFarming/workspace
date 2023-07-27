@@ -15,6 +15,8 @@ public class Demo1 {
 	public static void main(String[] arg) {
               
                    System.out.println("Harish developer has changed");
+                   System.out.println("Harish developer has changed second time");
+
 
 		Connection connection=null;
 		Statement statement=null;
